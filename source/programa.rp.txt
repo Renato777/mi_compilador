@@ -1,0 +1,3 @@
+MAIN
+    INT var = 1 ;
+ENDMAIN
